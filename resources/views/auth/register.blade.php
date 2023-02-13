@@ -14,7 +14,7 @@
                 </div>
 
 
-
+                
                 <form class="form">
                     <x-jet-authentication-card>
                         <h2>Registro </h2>
